@@ -7,7 +7,7 @@ import time
 # =========================
 
 BOT_TOKEN = "8729139885:AAEdK7DAoWK8O1cTkD5h7KTgPNDx2V_DFmw"
-CHAT_ID = "451786776"
+CHAT_ID = "6668235005"
 
 # =========================
 # SETTINGS
