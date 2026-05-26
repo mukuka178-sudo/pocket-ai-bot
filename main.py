@@ -135,7 +135,7 @@ def analyze_market(symbol):
 print("AI BOT STARTED")
 
 send_message("🚀 AI BOT STARTED")
-
+send_message("TEST MESSAGE SUCCESS")
 while True:
 
     for symbol in SYMBOLS:
